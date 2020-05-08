@@ -2,7 +2,7 @@
 
 Copyright 2020 Axel Bruck
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
