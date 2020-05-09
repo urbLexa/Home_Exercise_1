@@ -1,7 +1,7 @@
 language: python
 python:
- - "3.6"
-	
-# test running command
+    - "3.6"
+
+# command to run test
 script:
- - pytest
+    - pytest
