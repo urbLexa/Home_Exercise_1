@@ -4,4 +4,4 @@ python:
 	
 # test running command
 script:
- - test_utils.py
+ - python3 test_utils.py
