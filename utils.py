@@ -64,4 +64,4 @@ def pv_Power(g_tilt, x_roof, y_roof, panel, pr=0.8):
 
     '''
     pv_area = pv_roof_area(x_roof, y_roof, panel)
-    return g_tilt*pv_area*panel['eff']*pr/1000
+    return g_tilt * pv_area * panel['eff']*  pr / 1000
