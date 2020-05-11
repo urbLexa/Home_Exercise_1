@@ -5,6 +5,7 @@ Created on Fri May  8 18:35:47 2020
 @author: Axel
 """
 
+
 def pv_roof_area(x_roof, y_roof, panel):
     '''
     Calculation of effective PV area of roof considering complete roof
@@ -33,7 +34,6 @@ def pv_roof_area(x_roof, y_roof, panel):
     nr_pan_y = int(y_roof / panel['y_pan'])
     return (nr_pan_x * (panel['x_pan'] - 2 * panel['b']) * nr_pan_y * 
             (panel['y_pan'] - 2 * panel['b']))
-
 
 def pv_Power(g_tilt, x_roof, y_roof, panel, pr=0.8):
     '''
