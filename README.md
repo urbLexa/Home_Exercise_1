@@ -18,7 +18,7 @@ limitations under the License.
 
 ## Description
 
-Home Exercise for Open Source Energy System Modeling with shorter functions
+Home Exercise for Open Source Energy System Modeling with shorter functions (sorry that there are more lines than 40 but most of it is docstring and it said at least 2 functions)
 
 The chosen mini-project consitits of two functions:
 
@@ -33,3 +33,4 @@ pv_roof_area is hereby called by pv_Power to calculate the effective panel area 
 - Therefore, an optimisation of available space to allocation of pv panels
 - Additional function for calculation of the irradiance on the tilted surface from global horizontal, direct and diffuse horizontal irradiance
 - Additional function to create pv power time series of arbitrary resolution and length.
+- More extensive and less exact tests --> use rounding or a certain range within the test passes
