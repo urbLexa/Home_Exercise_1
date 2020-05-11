@@ -1,4 +1,4 @@
-# Home Exercise 1 Repository
+# Home Exercise 1 - Solar PV Power Calculation
 
 Copyright 2020 Axel Bruck
 
