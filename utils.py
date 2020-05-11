@@ -34,6 +34,7 @@ def pv_roof_area(x_roof, y_roof, panel):
     return (nr_pan_x * (panel['x_pan'] - 2 * panel['b']) * nr_pan_y * 
             (panel['y_pan'] - 2 * panel['b']))
 
+
 def pv_Power(g_tilt, x_roof, y_roof, panel, pr=0.8):
     '''
     Calculation of pv power in [kW] for specific irradiance on tilted surface
