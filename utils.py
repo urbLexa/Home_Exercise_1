@@ -5,7 +5,8 @@ Created on Fri May  8 18:35:47 2020
 @author: Axel
 """
 
-def pv_roof_area(x_roof, y_roof, panel): 
+
+def pv_roof_area(x_roof, y_roof, panel):
     '''
     Calculation of effective PV area of roof considering complete roof
     available for panels
