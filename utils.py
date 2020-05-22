@@ -13,7 +13,7 @@ def pv_roof_area(x_roof, y_roof, panel):
 
     Parameters
     ----------
-    x_roof : flaot
+    x_roof : float
         Length of roof in x-direction in meters.
     y_roof : float
         Length of roof in y-direction in meters..
