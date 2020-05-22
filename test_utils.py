@@ -23,7 +23,7 @@ panel = {
 g_tilt = 600
 
 def test_pv_roof_area():
-    assert pv_roof_area(6, 15, **panel) == 72.01152
+    assert pv_roof_area(6, 15, panel) == 72.01152
 
 def test_pv_Power():
     assert pv_Power(g_tilt, 6, 15, panel) == 6.740278272
